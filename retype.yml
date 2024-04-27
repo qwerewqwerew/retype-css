@@ -1,0 +1,29 @@
+input: .
+output: .retype
+url: #
+branding:
+  title: CSS 노트
+  label: Docs
+links:
+  - text: 리액트노트
+    link: https://qwerewqwerew.github.io/retype-react/
+  - text: 부트캠프
+    link: https://retype-react-lectrue-c67zllfic-qwerewqwerew.vercel.app/
+  - text: Coding Note
+    link: https://qwerewqwerew.github.io/retype/
+  - text: 망고는코딩대장
+    link: https://qwerewqwerew.github.io/book01/
+  - text: Respository
+    link: https://github.com/qwerewqwerew/retype
+    target: blank
+  - text: sourceRespository
+    link: https://github.com/qwerewqwerew/source
+    target: blank
+cache:
+  strategy: none
+exclude:
+  - 'draft/'
+markdown:
+  lineBreaks: hard
+footer:
+  copyright: '&copy; Copyright {{ year }}. All rights reserved.'
